@@ -30,3 +30,5 @@
 - Scaffolded React frontend with Vite and TypeScript.
 - Added Dockerfiles and Root Docker Compose configuration for local orchestration.
 - Verified successful builds for both frontend and backend.
+- Created and pushed to public GitHub repository: `Cade-Yamada/calgary-comp-calls`.
+- Configured Vite proxy and updated frontend to fetch health status from backend.
